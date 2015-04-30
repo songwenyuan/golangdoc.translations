@@ -4,7 +4,7 @@ Learn the basic components of any Go program.
 The Go Authors
 http://golang.org
 
-* Packages
+* Packages  
 
 Every Go program is made up of packages.
 
